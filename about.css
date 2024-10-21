@@ -1,0 +1,49 @@
+* {
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.about {
+    margin-top: 2%;
+    height: 60vh;
+    justify-content: center;
+    text-align: center;
+    background-image: url('https://t4.ftcdn.net/jpg/07/67/71/17/360_F_767711794_39FSHa04TWodxyXnSqnSLMT5eyHZQ1zv.jpg');
+    background-size: cover;
+    font-size: 40px;
+    display: flex;
+ 
+    align-items: center;
+    
+    color: rgb(10, 8, 8);
+    position: relative;
+    
+}
+
+.about-1{
+    height: 50vh;
+
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: rgb(10, 8, 8);
+    position: relative;
+}
+.about1{
+    font-size: 20px;
+    letter-spacing: 3px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.about1 p{
+    font-size: 16px;
+    max-width: 600px;
+    margin: 0 auto;
+    opacity: 0.8;
+
+}
+
